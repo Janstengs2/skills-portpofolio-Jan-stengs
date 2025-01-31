@@ -1,9 +1,22 @@
-#Kwaliteiten Wat kan ik goed
+#Kwaliteiten
+Het coderen van python ([andere projecten en nexed](https://github.com/tallandcollege/project-2-command-line-game-Janstengs2)),
+Toon inzet (hand-methode.docx, reflectie-ouderavond-jan-stengs.docx).
+Creatief (mentorbrief-jan-stengs.pdf, reflectie-ouderavond-jan-stengs.docx)
 
-#Motieven Waar sta en ga ik voor
+#Motieven
+Goede toekomst,
+Gezelligheid,
+Het gewoon leuk hebben.
 
-#Werk Waar ben ik het best op mijn plek
+#Werk
+Software development,
+Met andere devlopers,
+Werk waar ik Creatief voor moet zijn.
 
-#Loopbaan Hoe berijk ik mijn doel
+#Loopbaan
+Studie afronden --> junior positie vinden --> ervaring opnemen --> doorkunnen gaan naar senioren positie
 
-#Netwerken Wie kan mij helpen mijn doel te berijken
+#Netwerken
+Docenten,
+Vrienden en familie die in de IT zit,
+Collega's 
